@@ -18,7 +18,7 @@
 }
 
 .navbar-brand img{
-    width: 45px;
+    width: 50px;
     height: auto;
 }
 
@@ -35,4 +35,52 @@
 
 .fs-96{
     font-size: .96rem !important;
+}
+
+.nav-link-sb{
+    text-decoration: none !important;
+}
+
+.nav-link-sb ion-icon{
+        font-size: 1.3rem;
+        color: #1f2021;
+        margin-right: 5px;
+}
+
+
+.nav-link-sb span{
+    color: #1f2021;
+}
+
+.nav-link-sb:hover span{
+    color: #00754a;
+}
+
+.nav-link-sb:hover ion-icon{
+    color: #00754a;
+}
+
+.btn-white{
+        border: 1px solid #000;
+        border-radius: 2rem;
+        padding: 3px 18px;
+        font-size: .9rem;
+        background: #ffffff; 
+}
+
+.btn-white:hover{
+    background-color: rgb(0, 0, 0,.1);
+}
+
+.btn-black{
+    border: 1px solid #000;
+    border-radius: 2rem;
+    padding: 3px 18px;
+    font-size: .9rem;
+    background: #000000;
+    color: #ffffff;
+}
+
+.btn-black:hover{
+    background-color: rgb(0, 0, 0,.7);
 }

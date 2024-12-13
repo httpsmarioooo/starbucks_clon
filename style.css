@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "SoDoSans-Light";
+    src: url(./assets/fonts/SoDoSans-Light.ttf);
+}
+
+@font-face {
+    font-family: "SoDoSans-Regular";
+    src: url(./assets/fonts/SoDoSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "SoDoSans-SemiBold";
+    src: url(./assets/fonts/SoDoSans-SemiBold.ttf);
+}
+
+*{
+    font-family:"SoDoSans-Regular";
+}
+
+.navbar-brand img{
+    width: 45px;
+    height: auto;
+}
+
+.navbar{
+    box-shadow:
+    0 1px 3px rgb(0, 0, 0,.1),
+    0 2px 2px rgb(0, 0, 0,.06),
+    0 0px 2px rgb(0, 0, 0,.07);
+}
+
+.ff-SoDoSans-SemiBold{
+    font-family: "SoDoSans-SemiBold" !important;
+}
+
+.fs-96{
+    font-size: .96rem !important;
+}

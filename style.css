@@ -23,11 +23,18 @@
     height: auto;
 }
 
+button:focus{
+    box-shadow: none !important;
+}
+
 .navbar{
     box-shadow:
     0 1px 3px rgb(0, 0, 0,.1),
     0 2px 2px rgb(0, 0, 0,.06),
     0 0px 2px rgb(0, 0, 0,.07);
+}
+.p-2{
+    padding: 2rem !important;
 }
 
 .ff-SoDoSans-SemiBold{
@@ -36,6 +43,10 @@
 
 .fs-90{
     font-size: .90rem;
+}
+
+.fs-off-canvas{
+    font-size: 1.5rem !important;
 }
 
 .nav-link-sb{

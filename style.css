@@ -13,6 +13,7 @@
     src: url(./assets/fonts/SoDoSans-SemiBold.ttf);
 }
 
+
 *{
     font-family:"SoDoSans-Regular";
 }
@@ -30,15 +31,15 @@
 }
 
 .ff-SoDoSans-SemiBold{
-    font-family: "SoDoSans-SemiBold" !important;
+    font-family: "SoDoSans-SemiBold";
 }
 
-.fs-96{
-    font-size: .96rem !important;
+.fs-90{
+    font-size: .90rem;
 }
 
 .nav-link-sb{
-    text-decoration: none !important;
+    text-decoration: none;
 }
 
 .nav-link-sb ion-icon{
@@ -83,3 +84,8 @@
 .btn-black:hover{
     background-color: rgb(0, 0, 0,.7);
 }
+
+.text-green-hover:hover {
+    color: #00754a !important; /* Evita usar !important si no es estrictamente necesario */
+}
+

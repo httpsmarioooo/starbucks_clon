@@ -201,6 +201,19 @@ button:focus {
   text-decoration: none;
 }
 
-.text-list-hover:hover{
-    color:#1f2021 !important
+.text-list-hover:hover {
+  color: #1f2021 !important;
+}
+
+.text-list-footer:hover {
+  text-decoration: underline;
+}
+
+.color-footer {
+  color: #1f2021 !important;
+}
+
+.p-last {
+  color: #9e9393;
+  padding: 1rem;
 }

@@ -46,24 +46,46 @@ button:focus{
 }
 
 .fs-2-5{
-    color: #ffffff;
+    color: #1e3932;
     font-size: 2.5rem !important;
 }
 
 .fs-2-5-home2{
-    color: #1e3932;;
+    color: #ffffff;;
     font-size: 2.5rem !important;
 }
 
+.fs-2-5-home3{
+    color: #006241;;
+    font-size: 1.3rem !important;
+}
+
+.fs-2-5-home4{
+    color: #ffffff;;
+    font-size: 1.3rem !important;
+}
+
 .color-span1{
-    color: #ffffff;
+    color: #1e3932;
     font-size: 1.5rem;
     padding-top: 1rem;
 }
 
 .color-span2{
-    color: #1e3932;
+    color: #ffffff;
     font-size: 1.5rem;
+    padding-top: 1rem;
+}
+
+.color-span3{
+    color: #006241;
+    font-size: 1.3rem;
+    padding-top: 1rem;
+}
+
+.color-span4{
+    color: #ffffff;
+    font-size: 1.3rem;
     padding-top: 1rem;
 }
 
@@ -119,6 +141,19 @@ button:focus{
 }
 
 .btn-red{
+    border: 1px solid #00754a;
+    border-radius: 2rem;
+    padding: 3px 18px;
+    font-size: .9rem;
+    background: none;
+    color: #1e3932;
+}
+
+.btn-red:hover{
+    background-color: rgb(0, 0, 0,.1);
+}
+
+.btn-other{
     border: 1px solid #ffffff;
     border-radius: 2rem;
     padding: 3px 18px;
@@ -127,22 +162,36 @@ button:focus{
     color: #ffffff;
 }
 
-.btn-red:hover{
-    background-color: rgb(0, 0, 0,.2);
+.btn-other:hover{
+    background-color: rgb(0, 0, 0,.1);
 }
 
-.btn-black{
-    border: 1px solid #1e3932;
+.btn-vino{
+    border: 1px solid #ffffff;
     border-radius: 2rem;
     padding: 3px 18px;
     font-size: .9rem;
     background: none;
-    color: #1e3932;
+    color: #ffffff;
 }
 
-.btn-black:hover{
+.btn-vino:hover{
     background-color: rgb(0, 0, 0,.1);
 }
+
+.btn-last{
+    border: 1px solid #006241;
+    border-radius: 2rem;
+    padding: 3px 18px;
+    font-size: .9rem;
+    background: none;
+    color: #006241;
+}
+
+.btn-last:hover{
+    background-color: rgb(0, 0, 0,.1);
+}
+
 
 
 .text-green-hover:hover {

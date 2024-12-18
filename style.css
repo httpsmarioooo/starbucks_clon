@@ -247,7 +247,7 @@ button:focus {
     0 0px 2px rgb(0, 0, 0, 0.07);
 }
 
-.sub-var-menu{
+.sub-var-menu {
   text-decoration: underline;
   text-underline-offset: 10px; /* Ajusta la distancia de la línea de subrayado */
 }

@@ -128,6 +128,7 @@ button:focus {
   padding: 3px 18px;
   font-size: 0.9rem;
   background: #ffffff;
+  color: #000;
 }
 
 .btn-white:hover {

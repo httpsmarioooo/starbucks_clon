@@ -207,6 +207,12 @@ button:focus {
   padding: 3rem;
 }
 
+.messages{
+  padding-top: 4rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
+}
+
 .list-decoration {
   text-decoration: none;
 }

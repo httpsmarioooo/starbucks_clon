@@ -258,7 +258,6 @@ button:focus {
   text-underline-offset: 10px; /* Ajusta la distancia de la línea de subrayado */
 }
 
-
 @media (max-width: 1863px) and (max-height: 1092px) {
   .menu-subnavar {
     display: none !important;

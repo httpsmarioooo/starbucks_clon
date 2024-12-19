@@ -4,7 +4,8 @@ Lo que consistió este proyecto fue en realizar una copia de la página oficial 
 
 ![Banner Aboutme](starbuckspageog.png)
 
-Link de la página clon: https://starbucks-clon-three.vercel.app/
+Link de la página clon:
+https://starbucks-clon-three.vercel.app/
 <h2></h2>
 
 ![Banner Aboutme](Tecnologías.png)
